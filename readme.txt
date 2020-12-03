@@ -15,18 +15,3 @@ git branch -M main
 git push -u origin main
 
 
-what i do..
-
-1. open cmd
-2. go to location "cd .."
-3. type> git init
-4. dir > file.txt (to create new file)
-5. git status
-6. git add file.txt (to add)  or git add . (to add everything)
-7. git commit -m "any message"  (to commit)
-8. git remote add origin <link from github>  "https://github.com/gokulinfy3/new.git"
-9. git push -u origin master  (to push)	
-	# git config --global user.email "gokul.infy3@gmail.com"
-	# git config --global user.name "gokulinfy3"	
-10. git branch Branch1
-11. git checkout Branch1
